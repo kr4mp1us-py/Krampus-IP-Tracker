@@ -1,7 +1,4 @@
-colorama
-requests[socks]
-requests
-time
-os
-sys
 rich
+requests
+requests[socks]
+colorama
