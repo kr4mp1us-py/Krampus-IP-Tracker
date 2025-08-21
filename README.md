@@ -10,9 +10,11 @@ $ ~ sudo apt install tor
 
 $ ~ sudo apt install git -y
 
-$ ~ sudo apt install pip
+$ ~ sudo apt install python3 -y
 
-$ ~ sudo apt install python3.11-venv
+$ ~ sudo apt install pip -y
+
+$ ~ sudo apt install python3.11-venv -y
 
 $ ~ python3 -m venv venv
 
@@ -34,9 +36,9 @@ $ ~ pkg update -y && pkg upgrade -y
 
 $ ~ pkg install tor -y
 
-$ ~ pkg install pip -y
-
 $ ~ pkg install python3 -y
+
+$ ~ pkg install pip -y
 
 $ ~ pkg install git -y
 
