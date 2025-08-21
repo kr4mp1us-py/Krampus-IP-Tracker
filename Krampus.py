@@ -1368,7 +1368,7 @@ while True:
     time.sleep(0.2)
     print(Style.BRIGHT + Fore.LIGHTCYAN_EX + '[ # ] - ISP:', API.get('isp'))
     time.sleep(0.2)
-    print(Style.BRIGHT + Fore.LIGHTCYAN_EX + '[ \ ] - ORG:', API.get('org'))
+    print(Style.BRIGHT + Fore.LIGHTCYAN_EX + '[ & ] - ORG:', API.get('org'))
     time.sleep(0.2)
     print(Style.BRIGHT + Fore.LIGHTCYAN_EX + '[ % ] - AS:', API.get('as'))
     time.sleep(0.5)
