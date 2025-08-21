@@ -4,3 +4,4 @@ requests
 time
 os
 sys
+rich
