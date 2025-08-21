@@ -1,0 +1,6 @@
+colorama
+requests[socks]
+requests
+time
+os
+sys
